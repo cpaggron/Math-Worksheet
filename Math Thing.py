@@ -151,5 +151,6 @@ else:
             q = q - 1
         m = open('../desktop/mathworksheet.txt')
         content = m.read()
+        # Close the filexs
         m.close()
     
